@@ -1,0 +1,6 @@
+{
+  "name": "Hey My Headache 💕",
+  "description": "A romantic gift web app from Crystal to her boyfriend Ifeanyi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
